@@ -1,0 +1,7 @@
+{
+  "plugin_type": "files",
+  "name": "analyze-google-analytics",
+  "namespace": "tap_google_analytics",
+  "repo": "https://github.com/Matatika/analyze-google-analytics",
+  "pip_url": "git+https://github.com/Matatika/analyze-google-analytics@v0.4.0"
+}
